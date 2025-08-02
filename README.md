@@ -19,7 +19,7 @@ module-federation-demo/
 ## 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/module-federation-demo.git
+git clone https://github.com/ryanlima/module-federation-demo.git
 cd module-federation-demo
 ```
 
